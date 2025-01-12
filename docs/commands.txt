@@ -1,0 +1,19 @@
+## run localstack with docker:
+
+docker run --rm -d -p 4566:4566 -p 4571:4571 localstack/localstack
+
+OR 
+
+docker-compose up
+
+##  create aws s3 bucket -- go into sudo mode :
+
+aws --endpoint-url=http://localhost:4566 s3 mb s3://jigyasa-ai-spiritual-text --profile localstack
+
+## rum fast api for /upload_to_s3
+
+uvicorn app.ingestion.ingest_data:app --reload --host localhost --port 8000
+
+## go to below link for swagger:
+
+http://localhost:8000/docs

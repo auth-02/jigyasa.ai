@@ -1,0 +1,50 @@
+### Bhagvad Gita:
+
+- keep the track on Current Chapter (between 2 "CHAPTER" is one chapter ending )
+- keep the track on Current Text or shloka (between 2 "TEXT" is one shlok/text ending )
+- between "CHAPTER" and "TEXT" is the name of the chapter
+- between "TEXT" and "TRANSLATION" is the part of sholka and meaning 
+- between "TRANSLATION" and "PURPORT" is the English translation
+- between "PURPORT" and "TEXT" is the Purport or the meaning 
+- between "PURPORT" and "CHAPTER" is the Purport or the meaning for last verse or shloka of the chapter  
+
+
+
+    {
+        "Chapter Name": "Vibhooti Pada",
+        "Chapter Number": 3,
+        "Verse Number": 28,
+        "Sanskrit Shloka": "ध्रुवे तद्गतिज्ञानम् ॥",
+        "Padachchhed": "ध्रुवे, तत्, गति-ज्ञानम् ॥",
+        "Word Meanings": {
+            "Hindi": [
+                "ध्रुवे-ध्रुव तारे में संयम करने से",
+                "तद् –अन्य तारा समूह की",
+                "गति-गति अर्थात उनकी चाल का",
+                "ज्ञानम्-ज्ञान हो जाता है"
+            ],
+            "English": [
+                "dhruve - the pole star",
+                "tad - their",
+                "jnanam - knowledge.",
+                "gati - of the motion"
+            ]
+        },
+        "Sutra Meaning": {
+            "Hindi": "ध्रुव तारे में संयम करने से अन्य तारा समूह की गति का ज्ञान हो जाता है ।",
+            "Sanskrit": "",
+            "English": "By making samyama on the polestar, one gains knowledge of the motions of the stars.",
+            "French": "",
+            "German": "Samyama ( Versenkung) in den Polarstern bringt Wissen über die Bewegung der Sterne."
+        },
+        "Explanations": {
+            "Hindi": [
+                "चंद्रमा के ऊपर धारणा ध्यान और समाधि के प्रयोग से सब तारों की स्थिति के बारे में योगी को पता चल जाता है अब इसी श्रृंखला में जब योगी उन तारों में से जो ध्रुव तारा है, उसके ऊपर विशेष रूप से संयम करता है तो अन्य सभी तारों की गति  उसके विषय में सम्यक ज्ञान प्राप्त हो जाता है |क्योंकि ध्रुव तारा अपने स्थान से कभी भी विचलित नहीं होता है, कभी भी कम्पित नहीं होता है | ध्रुव तारे की स्थिरता यहां पर आधार बन जाती है दूसरे तारों की गति को मापने में |  ध्रुव तारे की जो स्थिर स्थिति  है उस पर धारणा -ध्यान और समाधि का एक साथ प्रयोग करने से सभी तारों की गति  या उनकी चाल  या वे किस नक्षत्र में गति कर रहे हैं इसका ठीक ठीक ज्ञान योगी को होने लगता है |"
+            ],
+            "English": [],
+            "Sanskrit": [],
+            "French": [],
+            "German": [],
+            "Yog Kavya": []
+        }
+    },
